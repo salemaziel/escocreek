@@ -1,0 +1,9 @@
+.topRow {
+    justify-content: center;
+    margin: 0 20rem 0 0;
+}
+
+.content {
+    margin: 2rem;
+    padding: 2rem;
+}
